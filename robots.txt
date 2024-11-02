@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://idiniuni.github.io/MCw/sitemap_index.txt
+Sitemap: https://idiniuni.github.io/fkI/sitemap_index.txt
+Sitemap: https://idiniuni.github.io/hwr/sitemap_index.txt
+Sitemap: https://idiniuni.github.io/mVK/sitemap_index.txt
